@@ -5,6 +5,8 @@ html, body{
 .titulo h1{
 margin-top: 30px;
 margin-bottom: 30px;
+font-family: Montserrat, sans-serif;
+font-size: 3em;
 }
 
 .container{
