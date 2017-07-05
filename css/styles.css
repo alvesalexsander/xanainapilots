@@ -21,4 +21,5 @@ html, body{
 img{
   width: 235px;
   height: 235px;
+  display: inline-block;
 }
